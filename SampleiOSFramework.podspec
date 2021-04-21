@@ -81,7 +81,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://mkpatil: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@github.com/mkpatil/SampleiOSFramework.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://mkpatil: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@github.com/mkpatil/SampleiOSPodspec.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
